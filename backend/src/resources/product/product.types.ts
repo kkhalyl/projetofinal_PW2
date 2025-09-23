@@ -1,0 +1,1 @@
+export type CreateProductDTO = Pick<Product, "name" | "description" | "stock" | "price">
